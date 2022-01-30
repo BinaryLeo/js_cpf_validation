@@ -23,7 +23,7 @@ A CPF is required not only to purchase real estate in Brazil,
 | 70|  0| 40| 28| 48| 20| 16| 15|  2|
 
 multiply the first 9 digits by a regressive sequence of digits between 10 and 2 <br/>
-multiplica-se os nove primeiros digitos por uma sequeência regressiva  de digitos entre 10 e 2
+multiplica-se os nove primeiros digitos por uma sequência regressiva  de digitos entre 10 e 2
 
 
 | 10 | 9 | 8 | 7 | 6 | 5 | 4 | 3 | 2 |
@@ -50,7 +50,7 @@ iniciamos a sequencia a partir de 11
 | 77 | 0 | 45| 32| 56| 24| 20| 20| 0 | 10|
 |----|---|---|:-:|---|---|---|---|---|---|
 
- 77 0  45 32 56 24 20 20 0 10 - result = 284<br/>
+ 77 0  45 32 56 24 20 20 0 10 -> result = 284<br/>
 
  11 - (284 % 11) = 2 is the eleventh digit of the CPF /2 é o décimo primeiro dígito do CPF<br/>
 Final sequence - Full CPF / CPF Válido:  705.484.450  +  5  + 2  =  705.484.450-52 
