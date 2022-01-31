@@ -2,6 +2,8 @@
 Validate a Brazilian CPF using javascript<br/>
 Validando CPF - Cadastro de Pessoas Físicas
 
+Github Page https://binaryleo.github.io/js_cpf_validation/
+
 
 A CPF number is the Tax ID generated once you have been registered into the Brazilian Revenue.
  CPF stands for "Cadastro de Pessoas Físicas" (Natural Persons Register). 
