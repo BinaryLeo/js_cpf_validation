@@ -5,6 +5,10 @@ Validando CPF - Cadastro de Pessoas Físicas
 Github Page https://binaryleo.github.io/js_cpf_validation/
 
 
+![image](https://user-images.githubusercontent.com/72607039/151735709-dcdbf395-54b6-4e76-9568-1e554f0c294a.png)
+
+
+
 A CPF number is the Tax ID generated once you have been registered into the Brazilian Revenue.
  CPF stands for "Cadastro de Pessoas Físicas" (Natural Persons Register). 
  The CPF has 11 digits and it may be issued by the Brazilian revenue service in Brazil
