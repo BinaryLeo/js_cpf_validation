@@ -1,0 +1,80 @@
+
+@import "minreset.css";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    min-height: 100vh;
+    background-color: #fff;
+    background: url("https://images.unsplash.com/photo-1582576156696-44e1ad3b3e79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80")
+      no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.wrapper{
+      align-items:center;
+      display:flex;
+      flex-direction: column;
+      height:100vh;
+      justify-content:center;
+      width:100%;
+  }
+.container{
+      background-color:#5A74DD;
+      border-radius: 10px;
+      box-shadow:5px 5px 5px rgba(42,52,46);
+      display:flex;
+      flex-direction: row;
+      height:210px;
+      justify-content:start;
+      width:360px;
+  }
+.card{
+      display:flex;
+      flex-direction: column;
+      margin: 10px 10px 10px 20px;
+  }
+.card h5{
+      font-size:12px;
+      text-transform:uppercase;
+  }
+.card h6{
+      font-size:14px;
+  }
+.top{
+      color:#fff;
+  }
+.label{
+      color:#1F279C;
+      font-size:12px;
+  }
+.card p {
+      color:#fff;
+      font-family: 'Open Sans', sans-serif;
+      font-size:42px;
+      font-weight:700;
+      margin: -10px 0px -10px 50px;
+  }
+.logo{
+      height:200px;
+      margin:5px;
+      padding:20px 0px 20px 0px;
+      right:0px;
+      width:150px;
+  }
+.box{
+      align-items:center;
+      display:flex;
+      flex-direction: row;
+      height:50px;
+      justify-content:center;
+      margin-top: 10px;
+      width:100%;
+  }
+.box button{
+      font-family: 'Poppins', sans-serif;
+      font-weight:400;
+      height:30px;
+      width:80px;
+  }
