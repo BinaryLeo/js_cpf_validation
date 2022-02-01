@@ -43,9 +43,9 @@ O nono dígito diz respeito a região onde o CPF foi registrado.
 5 = Primeiro dígito verificador<br/>
 2 = Segundo dígito verificador<br/>
 
-The Check Digits serve to validate the combination is valid without the need to consult the IRS database. But it is not a guarantee that the CPF in question is active or regular.
+The check digits are used to validate if the combination is valid without the need to consult the IRS database. But it is not a guarantee that the CPF in question is active or regular.
 
-Os Dígitos verificadores servem para validar a combinação é válida sem que haja a necessidade de consultar o banco de dados da Receita Federal. Mas não é uma garantia de que o CPF em questão seja ativo  ou regular.
+Os Dígitos verificadores  são usados para verificar se a combinação é válida sem que haja a necessidade de consultar o banco de dados da Receita Federal. Mas não é uma garantia de que o CPF em questão seja ativo  ou regular.
 
 
 
