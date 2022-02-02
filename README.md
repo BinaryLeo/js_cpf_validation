@@ -4,6 +4,13 @@ Validando CPF - Cadastro de Pessoas Físicas
 
 Github Page https://binaryleo.github.io/js_cpf_validation/
 
+<div align="left" style="margin: 20px; text-align: center">
+
+  [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/BinaryLeo/js_cpf_validation/blob/main/LICENSE)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/BinaryLeo/js_cpf_validation?style=flat-square)
+  ![GitHub top language](https://img.shields.io/github/languages/top/BinaryLeo/js_cpf_validation?style=flat-square)
+
+</div>
 
 ![image](https://user-images.githubusercontent.com/72607039/151735709-dcdbf395-54b6-4e76-9568-1e554f0c294a.png)
 
@@ -46,8 +53,6 @@ O nono dígito diz respeito a região onde o CPF foi registrado.
 The check digits are used to validate if the combination is valid without the need to consult the IRS database. But it is not a guarantee that the CPF in question is active or regular.
 
 Os Dígitos verificadores  são usados para verificar se a combinação é válida sem que haja a necessidade de consultar o banco de dados da Receita Federal. Mas não é uma garantia de que o CPF em questão seja ativo  ou regular.
-
-
 
 Algoritimo - Algorithm:
 
