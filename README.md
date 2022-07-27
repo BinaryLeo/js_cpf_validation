@@ -2,7 +2,6 @@
 Validate a Brazilian CPF using javascript<br/>
 Validando CPF - Cadastro de Pessoas Físicas
 
-Github Page https://binaryleo.github.io/js_cpf_validation/
 
 <div align="left" style="margin: 20px; text-align: center">
 
